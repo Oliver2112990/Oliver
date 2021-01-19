@@ -1,0 +1,10 @@
+p {
+    color: blue;
+    font-size: small;
+    padding: 3rem;
+    background-color: white;
+}
+*{
+    font-size: larger;
+    box-sizing: border-box;
+}
